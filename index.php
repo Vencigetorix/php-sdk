@@ -74,7 +74,7 @@ $appName = explode('.', $domain)[0];
                     Check the following examples, they will help you to start working with our API!
                 </p>
                 <p>
-                    Note that these examples work for MLB(Brasil) by default. If you'd like to try them in your own country, please, <a href="https://github.com/mercadolibre/php-sdk/blob/master/configApp.php#L16">update this line</a> in your project, with
+                    Note that these examples work for MLM(Brasil) by default. If you'd like to try them in your own country, please, <a href="https://github.com/mercadolibre/php-sdk/blob/master/configApp.php#L16">update this line</a> in your project, with
                     your own <b>$site_id</b> before executing them.
                 </p>
             </div>
@@ -143,7 +143,7 @@ $appName = explode('.', $domain)[0];
                     </p>
                     <pre class="pre-item">
 "title" => "Item De Teste - Por Favor, Não Ofertar! --kc:off",
-        "category_id" => "MLB1227",
+        "category_id" => "MLM1227",
         "price" => 10,
         "currency_id" => "BRL",
         "available_quantity" => 1,
